@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="sip_protocol">
+        <item>UDP</item>
+        <item>TCP</item>
+        <item>TLS</item>
+    </string-array>
+
+    <string-array name="protocol_display_values2">
+        <item>UDP (less standby on 3G)</item>
+        <item>TCP (longer standby on 3G)</item>
+        <item>TLS (encrypted)</item>
+    </string-array>
+    <string-array name="protocol_values2">
+        <item>udp</item>
+        <item>tcp</item>
+        <item>tls</item>
+    </string-array>
+</resources>

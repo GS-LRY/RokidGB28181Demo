@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">GB28181</string>
+    <string name="action_settings">设置</string>
+    <string name="start_call">拨打</string>
+    <string name="stop_call">拨打</string>
+
+
+
+
+    <!-- sip Settings strings -->
+
+
+    <string name="settings_account">GB28181账号设置</string>
+    <string name="settings_line">Line</string>
+
+
+
+    <string name="settings_local_port">本地SIP端口</string>
+    <string name="settings_protocol">传输协议</string>
+    <string name="settings_server_id">sip 服务器ID</string>
+    <string name="settings_domain">sip 服务器域</string>
+    <string name="settings_server">sip 服务器地址</string>
+    <string name="settings_port">sip 服务器端口</string>
+    <string name="settings_username">sip 用户名</string>
+    <string name="settings_password">密码</string>
+    <string name="settings_valid_of_registration">注册有效期</string>
+    <string name="settings_sip_heartbeat">心跳周期</string>
+    <string name="settings_max_heartbeat_timeout">最大心跳超时次数</string>
+
+
+
+    <string name="settings_domain2">Leave empty if same as server</string>
+    <string name="settings_username1">Username or Caller ID</string>
+    <string name="settings_callerid2">Leave empty if same as authorization username</string>
+
+    <string name="settings_default_sip_local_port">5060</string>
+    <string name="settings_default_sip_transport_protocol">UDP</string>
+    <string name="settings_default_sip_server_id">34020000002000000001</string>
+    <string name="settings_default_sip_server_domain">34020000</string>
+    <string name="settings_default_sip_server_address">10.88.1.136</string>
+    <string name="settings_default_sip_server_port">5060</string>
+    <string name="settings_default_sip_user_id">34020000001320000001</string>
+    <string name="settings_default_sip_validity_of_registration">3600</string>
+    <string name="settings_default_sip_heartbeat">60</string>
+    <string name="settings_default_max_heartbeat_timeout">3</string>
+
+
+    <string name="settings_check">Check with your mobile operator if he allows VoIP</string>
+    <string name="settings_vpn2">PBXes offers free VPN service, see PBXes >> HELP</string>
+
+
+
+    <string name="pref_sip_local_port">本地SIP端口</string>
+    <string name="pref_sip_transport_protocol">传输协议</string>
+    <string name="pref_sip_server_id">sip 服务器ID</string>
+    <string name="pref_sip_server_domain">sip 服务器域</string>
+    <string name="pref_sip_server_address">sip 服务器地址</string>
+    <string name="pref_sip_server_port">sip 服务器端口</string>
+    <string name="pref_sip_user_id">sip 用户名</string>
+    <string name="pref_sip_password">密码</string>
+    <string name="pref_sip_validity_of_registration">注册有效期</string>
+    <string name="pref_sip_heartbeat">心跳周期</string>
+    <string name="pref_sip_max_heartbeat_timeout_count">最大心跳超时次数</string>
+
+    <string name="pref_default_sip_local_port">5060</string>
+    <string name="pref_default_sip_transport_protocol">UDP</string>
+    <string name="pref_default_sip_server_id">34020000002000000001</string>
+    <string name="pref_default_sip_server_domain">34020000</string>
+    <string name="pref_default_sip_server_address">192.168.0.103</string>
+    <string name="pref_default_sip_server_port">5060</string>
+    <string name="pref_default_sip_user_id">34020000001320000001</string>
+    <string name="pref_default_sip_validity_of_registration">3600</string>
+    <string name="pref_default_sip_heartbeat">60</string>
+    <string name="pref_default_max_heartbeat_timeout_count">3</string>
+
+
+    <string name="settings_wlan">Use WLAN</string>
+    <string name="settings_3g">Use 3G</string>
+    <string name="settings_edge">Use EDGE</string>
+    <string name="settings_vpn">Use VPN</string>
+
+    <string name="boot_request_permission">申请权限</string>
+    <string name="common_btn_ok">确定</string>
+    <string name="common_btn_cancel">取消</string>
+    <string name="boot_request_permission_tips"> 此功能需要%s权限，否则无法正常使用，是否打开设置 </string>
+
+</resources>
